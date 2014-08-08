@@ -1,16 +1,6 @@
 Task2 (Twitter Search Stream)
 =============================
 
-
-* Usage:
-
-to search for 'love' type:
-
-
-
-Task2 (Twitter Search Stream)
-=============================
-
 * Small app that takes user search word and Displays a twitter stream result.
 
 1- Download the repository
