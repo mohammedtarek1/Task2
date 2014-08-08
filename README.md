@@ -1,5 +1,11 @@
-Task2
-=====
+Task2 (Twitter Search Stream)
+=============================
 
-Small app that takes the user search word and shows him/her a twitter stream of this word.
+Small app that takes user search word and Displays a twitter stream of this word.
+
+* Usage:
+
+to search for 'love' type:
+
+node tt.js love
 
